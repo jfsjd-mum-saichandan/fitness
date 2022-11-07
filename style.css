@@ -1,0 +1,54 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color: #C69208;
+    text-align: center;
+}
+a{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: underline #E400FF 2px solid;
+}
+ul{
+    color:aliceblue;
+    text-shadow:black 2px 2px;
+}
+.sai{
+    background-color: aquamarine;
+    color:black;
+    text-shadow: 5px 5px 10px red;
+}
+.chandan{
+    color: black;
+    background-color: aquamarine;
+    text-shadow: 5px 5px 10px red;
+}
+.yadav{
+    color:black;
+    background-color: aquamarine;
+    text-shadow: 5px 5px 10px red;
+}
+.ramana{
+    color:black;
+    background-color: aquamarine;
+    text-shadow: 5px 5px 10px red;
+}
+.prasad{
+    color:black;
+    background-color: aquamarine;
+    text-shadow: 5px 5px 5px red;
+}
+address{
+   background-color:#C69208 ; 
+    text-align:right;
+}
+video{
+    height: 300px;
+ width: 500px;
+ border: 1px;
+ margin: 0 auto;
+ padding: 10px;
+ box-sizing: border-box;
+}
